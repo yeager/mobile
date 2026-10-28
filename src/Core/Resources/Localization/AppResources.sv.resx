@@ -160,7 +160,7 @@
     <comment>The button text that allows a user to copy the login's username to their clipboard.</comment>
   </data>
   <data name="Credits" xml:space="preserve">
-    <value>Credits</value>
+    <value>Erkännanden</value>
     <comment>Title for page that we use to give credit to resources that we use.</comment>
   </data>
   <data name="Delete" xml:space="preserve">
@@ -1027,7 +1027,7 @@ Skanningen sker automatiskt.</value>
     <value>Adress 3</value>
   </data>
   <data name="April" xml:space="preserve">
-    <value>April</value>
+    <value>april</value>
   </data>
   <data name="August" xml:space="preserve">
     <value>Augusti</value>
@@ -1048,7 +1048,7 @@ Skanningen sker automatiskt.</value>
     <value>Land</value>
   </data>
   <data name="December" xml:space="preserve">
-    <value>December</value>
+    <value>december</value>
   </data>
   <data name="Dr" xml:space="preserve">
     <value>Dr</value>
@@ -1105,7 +1105,7 @@ Skanningen sker automatiskt.</value>
     <value>Vederbörande</value>
   </data>
   <data name="November" xml:space="preserve">
-    <value>November</value>
+    <value>november</value>
   </data>
   <data name="October" xml:space="preserve">
     <value>Oktober</value>
@@ -1117,7 +1117,7 @@ Skanningen sker automatiskt.</value>
     <value>Telefon</value>
   </data>
   <data name="September" xml:space="preserve">
-    <value>September</value>
+    <value>september</value>
   </data>
   <data name="SSN" xml:space="preserve">
     <value>Personnummer</value>
@@ -1205,7 +1205,7 @@ Skanningen sker automatiskt.</value>
     <value>Anpassat fältnamn</value>
   </data>
   <data name="FieldTypeBoolean" xml:space="preserve">
-    <value>Boolean</value>
+    <value>Boolesk</value>
   </data>
   <data name="FieldTypeHidden" xml:space="preserve">
     <value>Dold</value>
@@ -2953,13 +2953,13 @@ Vill du byta till detta konto?</value>
     <value>Okänt konto</value>
   </data>
   <data name="SetUpAutofill" xml:space="preserve">
-    <value>Set up auto-fill</value>
+    <value>Konfigurera autofyll</value>
   </data>
   <data name="GetInstantAccessToYourPasswordsAndPasskeys" xml:space="preserve">
-    <value>Get instant access to your passwords and passkeys!</value>
+    <value>Få omedelbar åtkomst till dina lösenord och passkeys!</value>
   </data>
   <data name="SetUpAutoFillDescriptionLong" xml:space="preserve">
-    <value>To set up password auto-fill and passkey management, set Bitwarden as your preferred provider in the iOS Settings.</value>
+    <value>Konfigurera lösenordsautofyll och hantering av passkeys genom att välja Bitwarden som föredragen leverantör i iOS-inställningarna.</value>
   </data>
   <data name="FirstDotGoToYourDeviceSettingsPasswordsPasswordOptions" xml:space="preserve">
     <value>1. Gå till din enhets Inställningar &gt; Lösenord &gt; Lösenordsalternativ</value>
@@ -2971,27 +2971,27 @@ Vill du byta till detta konto?</value>
     <value>3. Välj att använda "Bitwarden" för lösenord och passkeys</value>
   </data>
   <data name="YourPasskeyWillBeSavedToYourBitwardenVault" xml:space="preserve">
-    <value>Your passkey will be saved to your Bitwarden vault</value>
+    <value>Din passkey sparas i ditt Bitwarden-valv</value>
   </data>
   <data name="YourPasskeyWillBeSavedToYourBitwardenVaultForX" xml:space="preserve">
     <value>Din passkey kommer att sparas i ditt Bitwarden-valv för {0}</value>
   </data>
   <data name="PasskeysNotSupportedForThisApp" xml:space="preserve">
-    <value>Passkeys not supported for this app</value>
+    <value>Passkeys stöds inte för den här appen</value>
   </data>
   <data name="PasskeyOperationFailedBecauseBrowserIsNotPrivileged" xml:space="preserve">
-    <value>Passkey operation failed because browser is not privileged</value>
+    <value>Passkey-åtgärden misslyckades eftersom webbläsaren saknar behörighet</value>
   </data>
   <data name="PasskeyOperationFailedBecauseBrowserSignatureDoesNotMatch" xml:space="preserve">
-    <value>Passkey operation failed because browser signature does not match</value>
+    <value>Passkey-åtgärden misslyckades eftersom webbläsarens signatur inte stämmer</value>
   </data>
   <data name="PasskeyOperationFailedBecauseOfMissingAssetLinks" xml:space="preserve">
-    <value>Passkey operation failed because of missing asset links</value>
+    <value>Passkey-åtgärden misslyckades eftersom tillgångslänkar saknas</value>
   </data>
   <data name="PasskeyOperationFailedBecauseAppNotFoundInAssetLinks" xml:space="preserve">
-    <value>Passkey operation failed because app not found in asset links</value>
+    <value>Passkey-åtgärden misslyckades eftersom appen inte hittades i tillgångslänkarna</value>
   </data>
   <data name="PasskeyOperationFailedBecauseAppCouldNotBeVerified" xml:space="preserve">
-    <value>Passkey operation failed because app could not be verified</value>
+    <value>Passkey-åtgärden misslyckades eftersom appen inte kunde verifieras</value>
   </data>
 </root>
